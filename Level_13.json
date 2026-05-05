@@ -1,0 +1,152 @@
+{
+    "gridType": 1,
+    "spawnPattern": 1,
+    "columns": 4,
+    "rows": 5,
+    "columnDistance": 0.9969651699066162,
+    "rowDistance": 0.9233688712120056,
+    "outerRings": 2,
+    "needToCollect": 160,
+    "cells": [
+        {
+            "localPosition": {
+                "x": 0.7477235794067383,
+                "y": 5.960464477539063e-8,
+                "z": 1.295095682144165
+            },
+            "lockType": 1,
+            "isLocked": false,
+            "unlockMode": 0,
+            "requiredPiecesToUnlock": 0,
+            "adPlacementId": "",
+            "price": 0,
+            "pieces": []
+        },
+        {
+            "localPosition": {
+                "x": -0.7477235794067383,
+                "y": -5.960464477539063e-8,
+                "z": 1.295095682144165
+            },
+            "lockType": 1,
+            "isLocked": false,
+            "unlockMode": 0,
+            "requiredPiecesToUnlock": 0,
+            "adPlacementId": "",
+            "price": 0,
+            "pieces": []
+        },
+        {
+            "localPosition": {
+                "x": -0.7477235794067383,
+                "y": -5.960464477539063e-8,
+                "z": 0.4316985607147217
+            },
+            "lockType": 1,
+            "isLocked": false,
+            "unlockMode": 0,
+            "requiredPiecesToUnlock": 0,
+            "adPlacementId": "",
+            "price": 0,
+            "pieces": []
+        },
+        {
+            "localPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.2548348138352594e-8
+            },
+            "lockType": 1,
+            "isLocked": false,
+            "unlockMode": 0,
+            "requiredPiecesToUnlock": 0,
+            "adPlacementId": "",
+            "price": 0,
+            "pieces": []
+        },
+        {
+            "localPosition": {
+                "x": 1.495448112487793,
+                "y": 1.1920928955078126e-7,
+                "z": 0.8633971214294434
+            },
+            "lockType": 1,
+            "isLocked": false,
+            "unlockMode": 0,
+            "requiredPiecesToUnlock": 0,
+            "adPlacementId": "",
+            "price": 0,
+            "pieces": []
+        },
+        {
+            "localPosition": {
+                "x": 0.7477235794067383,
+                "y": 5.960464477539063e-8,
+                "z": -1.295095682144165
+            },
+            "lockType": 2,
+            "isLocked": true,
+            "unlockMode": 2,
+            "requiredPiecesToUnlock": 5,
+            "adPlacementId": "",
+            "price": 5,
+            "pieces": []
+        },
+        {
+            "localPosition": {
+                "x": 1.495448112487793,
+                "y": 1.1920928955078126e-7,
+                "z": 1.2548348138352594e-8
+            },
+            "lockType": 1,
+            "isLocked": false,
+            "unlockMode": 0,
+            "requiredPiecesToUnlock": 0,
+            "adPlacementId": "",
+            "price": 0,
+            "pieces": []
+        },
+        {
+            "localPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.8633971214294434
+            },
+            "lockType": 1,
+            "isLocked": false,
+            "unlockMode": 0,
+            "requiredPiecesToUnlock": 0,
+            "adPlacementId": "",
+            "price": 0,
+            "pieces": []
+        },
+        {
+            "localPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.8633971214294434
+            },
+            "lockType": 1,
+            "isLocked": false,
+            "unlockMode": 0,
+            "requiredPiecesToUnlock": 0,
+            "adPlacementId": "",
+            "price": 0,
+            "pieces": []
+        },
+        {
+            "localPosition": {
+                "x": 0.7477235794067383,
+                "y": 5.960464477539063e-8,
+                "z": -0.4316985607147217
+            },
+            "lockType": 1,
+            "isLocked": false,
+            "unlockMode": 0,
+            "requiredPiecesToUnlock": 0,
+            "adPlacementId": "",
+            "price": 0,
+            "pieces": []
+        }
+    ]
+}

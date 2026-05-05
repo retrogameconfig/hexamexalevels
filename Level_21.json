@@ -1,0 +1,208 @@
+{
+    "gridType": 1,
+    "spawnPattern": 1,
+    "columns": 4,
+    "rows": 6,
+    "columnDistance": 0.9969656467437744,
+    "rowDistance": 0.879210352897644,
+    "outerRings": 2,
+    "needToCollect": 200,
+    "cells": [
+        {
+            "localPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.7267950773239136
+            },
+            "lockType": 1,
+            "isLocked": false,
+            "unlockMode": 0,
+            "requiredPiecesToUnlock": 0,
+            "adPlacementId": "",
+            "price": 0,
+            "pieces": []
+        },
+        {
+            "localPosition": {
+                "x": 0.7477245330810547,
+                "y": 5.960464477539063e-8,
+                "z": 1.2950962781906129
+            },
+            "lockType": 1,
+            "isLocked": false,
+            "unlockMode": 0,
+            "requiredPiecesToUnlock": 0,
+            "adPlacementId": "",
+            "price": 0,
+            "pieces": []
+        },
+        {
+            "localPosition": {
+                "x": -0.7477245330810547,
+                "y": -5.960464477539063e-8,
+                "z": 1.2950962781906129
+            },
+            "lockType": 1,
+            "isLocked": false,
+            "unlockMode": 0,
+            "requiredPiecesToUnlock": 0,
+            "adPlacementId": "",
+            "price": 0,
+            "pieces": []
+        },
+        {
+            "localPosition": {
+                "x": 1.495448112487793,
+                "y": 1.1920928955078126e-7,
+                "z": 0.8633974194526672
+            },
+            "lockType": 1,
+            "isLocked": false,
+            "unlockMode": 0,
+            "requiredPiecesToUnlock": 0,
+            "adPlacementId": "",
+            "price": 0,
+            "pieces": []
+        },
+        {
+            "localPosition": {
+                "x": -1.495448112487793,
+                "y": -1.1920928955078126e-7,
+                "z": 0.8633974194526672
+            },
+            "lockType": 1,
+            "isLocked": false,
+            "unlockMode": 0,
+            "requiredPiecesToUnlock": 0,
+            "adPlacementId": "",
+            "price": 0,
+            "pieces": []
+        },
+        {
+            "localPosition": {
+                "x": -1.495448112487793,
+                "y": -1.1920928955078126e-7,
+                "z": -5.646755596444564e-8
+            },
+            "lockType": 1,
+            "isLocked": false,
+            "unlockMode": 0,
+            "requiredPiecesToUnlock": 0,
+            "adPlacementId": "",
+            "price": 0,
+            "pieces": []
+        },
+        {
+            "localPosition": {
+                "x": -1.495448112487793,
+                "y": -1.1920928955078126e-7,
+                "z": -0.8633975386619568
+            },
+            "lockType": 1,
+            "isLocked": false,
+            "unlockMode": 0,
+            "requiredPiecesToUnlock": 0,
+            "adPlacementId": "",
+            "price": 0,
+            "pieces": []
+        },
+        {
+            "localPosition": {
+                "x": -0.7477245330810547,
+                "y": -5.960464477539063e-8,
+                "z": -1.2950962781906129
+            },
+            "lockType": 1,
+            "isLocked": false,
+            "unlockMode": 0,
+            "requiredPiecesToUnlock": 0,
+            "adPlacementId": "",
+            "price": 0,
+            "pieces": []
+        },
+        {
+            "localPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -1.7267950773239136
+            },
+            "lockType": 1,
+            "isLocked": false,
+            "unlockMode": 0,
+            "requiredPiecesToUnlock": 0,
+            "adPlacementId": "",
+            "price": 0,
+            "pieces": []
+        },
+        {
+            "localPosition": {
+                "x": 0.7477245330810547,
+                "y": 5.960464477539063e-8,
+                "z": -1.2950962781906129
+            },
+            "lockType": 1,
+            "isLocked": false,
+            "unlockMode": 0,
+            "requiredPiecesToUnlock": 0,
+            "adPlacementId": "",
+            "price": 0,
+            "pieces": []
+        },
+        {
+            "localPosition": {
+                "x": 1.495448112487793,
+                "y": 1.1920928955078126e-7,
+                "z": -0.8633975386619568
+            },
+            "lockType": 1,
+            "isLocked": false,
+            "unlockMode": 0,
+            "requiredPiecesToUnlock": 0,
+            "adPlacementId": "",
+            "price": 0,
+            "pieces": []
+        },
+        {
+            "localPosition": {
+                "x": 1.495448112487793,
+                "y": 1.1920928955078126e-7,
+                "z": 6.274173358633561e-8
+            },
+            "lockType": 1,
+            "isLocked": false,
+            "unlockMode": 0,
+            "requiredPiecesToUnlock": 0,
+            "adPlacementId": "",
+            "price": 0,
+            "pieces": []
+        },
+        {
+            "localPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.8633975386619568
+            },
+            "lockType": 2,
+            "isLocked": true,
+            "unlockMode": 2,
+            "requiredPiecesToUnlock": 5,
+            "adPlacementId": "",
+            "price": 5,
+            "pieces": []
+        },
+        {
+            "localPosition": {
+                "x": -0.7477245330810547,
+                "y": -5.960464477539063e-8,
+                "z": -0.431698739528656
+            },
+            "lockType": 2,
+            "isLocked": true,
+            "unlockMode": 2,
+            "requiredPiecesToUnlock": 5,
+            "adPlacementId": "",
+            "price": 5,
+            "pieces": []
+        }
+    ]
+}
