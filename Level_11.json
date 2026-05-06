@@ -6,7 +6,7 @@
     "columnDistance": 1.0457171201705933,
     "rowDistance": 1.100000023841858,
     "outerRings": 2,
-    "needToCollect": 50,
+    "needToCollect": 250,
     "cells": [
         {
             "localPosition": {
