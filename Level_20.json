@@ -56,12 +56,12 @@
                 "y": 5.960464477539063e-8,
                 "z": 1.048411250114441
             },
-            "lockType": 2,
-            "isLocked": true,
-            "unlockMode": 2,
-            "requiredPiecesToUnlock": 5,
+            "lockType": 1,
+            "isLocked": false,
+            "unlockMode": 0,
+            "requiredPiecesToUnlock": 0,
             "adPlacementId": "",
-            "price": 5,
+            "price": 0,
             "pieces": []
         },
         {
@@ -98,12 +98,12 @@
                 "y": -1.1920928955078126e-7,
                 "z": 0.6167124509811401
             },
-            "lockType": 2,
-            "isLocked": true,
-            "unlockMode": 2,
-            "requiredPiecesToUnlock": 5,
+            "lockType": 1,
+            "isLocked": false,
+            "unlockMode": 0,
+            "requiredPiecesToUnlock": 0,
             "adPlacementId": "",
-            "price": 5,
+            "price": 0,
             "pieces": []
         },
         {
@@ -140,12 +140,12 @@
                 "y": 0.0,
                 "z": -1.1100826263427735
             },
-            "lockType": 2,
-            "isLocked": true,
-            "unlockMode": 2,
-            "requiredPiecesToUnlock": 5,
+            "lockType": 1,
+            "isLocked": false,
+            "unlockMode": 0,
+            "requiredPiecesToUnlock": 0,
             "adPlacementId": "",
-            "price": 5,
+            "price": 0,
             "pieces": []
         },
         {

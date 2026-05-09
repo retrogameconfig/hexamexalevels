@@ -14,12 +14,12 @@
                 "y": 0.0,
                 "z": 1.7267942428588868
             },
-            "lockType": 2,
-            "isLocked": true,
-            "unlockMode": 2,
-            "requiredPiecesToUnlock": 5,
+            "lockType": 1,
+            "isLocked": false,
+            "unlockMode": 0,
+            "requiredPiecesToUnlock": 0,
             "adPlacementId": "",
-            "price": 5,
+            "price": 0,
             "pieces": []
         },
         {
@@ -465,12 +465,12 @@
                 "y": 0.0,
                 "z": -1.7267942428588868
             },
-            "lockType": 2,
-            "isLocked": true,
-            "unlockMode": 2,
-            "requiredPiecesToUnlock": 5,
+            "lockType": 1,
+            "isLocked": false,
+            "unlockMode": 0,
+            "requiredPiecesToUnlock": 0,
             "adPlacementId": "",
-            "price": 5,
+            "price": 0,
             "pieces": []
         },
         {

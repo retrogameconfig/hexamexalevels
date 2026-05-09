@@ -84,8 +84,8 @@
                 "y": 5.960464477539063e-8,
                 "z": -1.295095682144165
             },
-            "lockType": 2,
-            "isLocked": true,
+            "lockType": 1,
+            "isLocked": false,
             "unlockMode": 2,
             "requiredPiecesToUnlock": 5,
             "adPlacementId": "",
