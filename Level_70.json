@@ -1,18 +1,18 @@
 {
     "gridType": 1,
-    "spawnPattern": 0,
+    "spawnPattern": 1,
     "columns": 4,
     "rows": 4,
-    "columnDistance": 0.9659596681594849,
+    "columnDistance": 1.05269193649292,
     "rowDistance": 0.8949970006942749,
     "outerRings": 2,
-    "needToCollect": 225,
+    "needToCollect": 325,
     "cells": [
         {
             "localPosition": {
-                "x": -1.690429449081421,
-                "y": 0.0,
-                "z": -1.3424954414367676
+                "x": 0.7895193099975586,
+                "y": 5.960464477539063e-8,
+                "z": 1.3674869537353516
             },
             "lockType": 1,
             "isLocked": false,
@@ -89,7 +89,7 @@
                         "z": -2.1855694143368966e-8,
                         "w": -3.785517321830412e-8
                     },
-                    "colorIndex": 1
+                    "colorIndex": 4
                 },
                 {
                     "localPosition": {
@@ -137,9 +137,9 @@
         },
         {
             "localPosition": {
-                "x": -0.7244698405265808,
-                "y": 0.0,
-                "z": -1.3424954414367676
+                "x": -0.7895193099975586,
+                "y": -5.960464477539063e-8,
+                "z": 1.3674869537353516
             },
             "lockType": 1,
             "isLocked": false,
@@ -151,23 +151,23 @@
         },
         {
             "localPosition": {
-                "x": 0.24148982763290406,
-                "y": 0.0,
-                "z": -1.3424954414367676
+                "x": -0.7895193099975586,
+                "y": -5.960464477539063e-8,
+                "z": 0.4558289349079132
             },
             "lockType": 3,
             "isLocked": true,
             "unlockMode": 1,
-            "requiredPiecesToUnlock": 15,
+            "requiredPiecesToUnlock": 40,
             "adPlacementId": "",
-            "price": 15,
+            "price": 40,
             "pieces": []
         },
         {
             "localPosition": {
-                "x": 1.2074496746063233,
+                "x": 0.0,
                 "y": 0.0,
-                "z": -1.3424954414367676
+                "z": 2.509668917127783e-8
             },
             "lockType": 1,
             "isLocked": false,
@@ -188,7 +188,7 @@
                         "z": -2.1855694143368966e-8,
                         "w": -3.785517321830412e-8
                     },
-                    "colorIndex": 3
+                    "colorIndex": 0
                 },
                 {
                     "localPosition": {
@@ -202,7 +202,7 @@
                         "z": -2.1855694143368966e-8,
                         "w": -3.785517321830412e-8
                     },
-                    "colorIndex": 3
+                    "colorIndex": 0
                 },
                 {
                     "localPosition": {
@@ -216,7 +216,134 @@
                         "z": -2.1855694143368966e-8,
                         "w": -3.785517321830412e-8
                     },
-                    "colorIndex": 3
+                    "colorIndex": 0
+                },
+                {
+                    "localPosition": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 1.062000036239624
+                    },
+                    "localRotation": {
+                        "x": -0.8660253882408142,
+                        "y": 0.5,
+                        "z": -2.1855694143368966e-8,
+                        "w": -3.785517321830412e-8
+                    },
+                    "colorIndex": 2
+                },
+                {
+                    "localPosition": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 1.2760000228881837
+                    },
+                    "localRotation": {
+                        "x": -0.8660253882408142,
+                        "y": 0.5,
+                        "z": -2.1855694143368966e-8,
+                        "w": -3.785517321830412e-8
+                    },
+                    "colorIndex": 2
+                },
+                {
+                    "localPosition": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 1.4900000095367432
+                    },
+                    "localRotation": {
+                        "x": -0.8660253882408142,
+                        "y": 0.5,
+                        "z": -2.1855694143368966e-8,
+                        "w": -3.785517321830412e-8
+                    },
+                    "colorIndex": 2
+                }
+            ]
+        },
+        {
+            "localPosition": {
+                "x": 0.7895193099975586,
+                "y": 5.960464477539063e-8,
+                "z": 0.4558289349079132
+            },
+            "lockType": 3,
+            "isLocked": true,
+            "unlockMode": 1,
+            "requiredPiecesToUnlock": 30,
+            "adPlacementId": "",
+            "price": 30,
+            "pieces": []
+        },
+        {
+            "localPosition": {
+                "x": 1.5790376663208008,
+                "y": 1.1920928955078126e-7,
+                "z": 0.9116579294204712
+            },
+            "lockType": 1,
+            "isLocked": false,
+            "unlockMode": 0,
+            "requiredPiecesToUnlock": 0,
+            "adPlacementId": "",
+            "price": 0,
+            "pieces": []
+        },
+        {
+            "localPosition": {
+                "x": -1.5790376663208008,
+                "y": -1.1920928955078126e-7,
+                "z": 0.9116579294204712
+            },
+            "lockType": 1,
+            "isLocked": false,
+            "unlockMode": 0,
+            "requiredPiecesToUnlock": 0,
+            "adPlacementId": "",
+            "price": 0,
+            "pieces": [
+                {
+                    "localPosition": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.41999998688697817
+                    },
+                    "localRotation": {
+                        "x": -0.8660253882408142,
+                        "y": 0.5,
+                        "z": -2.1855694143368966e-8,
+                        "w": -3.785517321830412e-8
+                    },
+                    "colorIndex": 4
+                },
+                {
+                    "localPosition": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.6340000033378601
+                    },
+                    "localRotation": {
+                        "x": -0.8660253882408142,
+                        "y": 0.5,
+                        "z": -2.1855694143368966e-8,
+                        "w": -3.785517321830412e-8
+                    },
+                    "colorIndex": 4
+                },
+                {
+                    "localPosition": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.8479999899864197
+                    },
+                    "localRotation": {
+                        "x": -0.8660253882408142,
+                        "y": 0.5,
+                        "z": -2.1855694143368966e-8,
+                        "w": -3.785517321830412e-8
+                    },
+                    "colorIndex": 4
                 },
                 {
                     "localPosition": {
@@ -244,7 +371,7 @@
                         "z": -2.1855694143368966e-8,
                         "w": -3.785517321830412e-8
                     },
-                    "colorIndex": 4
+                    "colorIndex": 2
                 },
                 {
                     "localPosition": {
@@ -258,7 +385,7 @@
                         "z": -2.1855694143368966e-8,
                         "w": -3.785517321830412e-8
                     },
-                    "colorIndex": 4
+                    "colorIndex": 2
                 },
                 {
                     "localPosition": {
@@ -272,99 +399,71 @@
                         "z": -2.1855694143368966e-8,
                         "w": -3.785517321830412e-8
                     },
-                    "colorIndex": 4
-                },
-                {
-                    "localPosition": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 1.9179999828338624
-                    },
-                    "localRotation": {
-                        "x": -0.8660253882408142,
-                        "y": 0.5,
-                        "z": -2.1855694143368966e-8,
-                        "w": -3.785517321830412e-8
-                    },
-                    "colorIndex": 4
+                    "colorIndex": 2
                 }
             ]
         },
         {
             "localPosition": {
-                "x": -1.2074496746063233,
-                "y": 0.0,
-                "z": -0.4474984407424927
+                "x": -1.5790376663208008,
+                "y": -1.1920928955078126e-7,
+                "z": -0.9116580486297607
+            },
+            "lockType": 1,
+            "isLocked": false,
+            "unlockMode": 0,
+            "requiredPiecesToUnlock": 0,
+            "adPlacementId": "",
+            "price": 0,
+            "pieces": []
+        },
+        {
+            "localPosition": {
+                "x": -0.7895193099975586,
+                "y": -5.960464477539063e-8,
+                "z": -1.3674869537353516
+            },
+            "lockType": 1,
+            "isLocked": false,
+            "unlockMode": 0,
+            "requiredPiecesToUnlock": 0,
+            "adPlacementId": "",
+            "price": 0,
+            "pieces": []
+        },
+        {
+            "localPosition": {
+                "x": 0.7895193099975586,
+                "y": 5.960464477539063e-8,
+                "z": -1.3674869537353516
+            },
+            "lockType": 1,
+            "isLocked": false,
+            "unlockMode": 0,
+            "requiredPiecesToUnlock": 0,
+            "adPlacementId": "",
+            "price": 0,
+            "pieces": []
+        },
+        {
+            "localPosition": {
+                "x": 1.5790376663208008,
+                "y": 1.1920928955078126e-7,
+                "z": -0.9116580486297607
             },
             "lockType": 3,
             "isLocked": true,
             "unlockMode": 1,
-            "requiredPiecesToUnlock": 45,
-            "adPlacementId": "",
-            "price": 45,
-            "pieces": []
-        },
-        {
-            "localPosition": {
-                "x": -0.2414899468421936,
-                "y": 0.0,
-                "z": -0.4474984407424927
-            },
-            "lockType": 0,
-            "isLocked": true,
-            "unlockMode": 0,
-            "requiredPiecesToUnlock": 0,
-            "adPlacementId": "",
-            "price": 15,
-            "pieces": []
-        },
-        {
-            "localPosition": {
-                "x": 0.7244696021080017,
-                "y": 0.0,
-                "z": -0.4474984407424927
-            },
-            "lockType": 1,
-            "isLocked": false,
-            "unlockMode": 0,
-            "requiredPiecesToUnlock": 0,
-            "adPlacementId": "",
-            "price": 0,
-            "pieces": []
-        },
-        {
-            "localPosition": {
-                "x": 1.690429449081421,
-                "y": 0.0,
-                "z": -0.4474984407424927
-            },
-            "lockType": 1,
-            "isLocked": false,
-            "unlockMode": 0,
-            "requiredPiecesToUnlock": 0,
-            "adPlacementId": "",
-            "price": 0,
-            "pieces": []
-        },
-        {
-            "localPosition": {
-                "x": -1.690429449081421,
-                "y": 0.0,
-                "z": 0.4474985599517822
-            },
-            "lockType": 0,
-            "isLocked": true,
-            "unlockMode": 0,
-            "requiredPiecesToUnlock": 0,
+            "requiredPiecesToUnlock": 25,
             "adPlacementId": "",
             "price": 25,
             "pieces": []
         },
         {
             "localPosition": {
-                "x": -0.7244698405265808,
+                "x": 0.0,
                 "y": 0.0,
-                "z": 0.4474985599517822
+                "z": 0.9116579294204712
             },
             "lockType": 1,
             "isLocked": false,
@@ -376,37 +475,23 @@
         },
         {
             "localPosition": {
-                "x": 0.24148982763290406,
+                "x": 0.0,
                 "y": 0.0,
-                "z": 0.4474985599517822
+                "z": -0.9116580486297607
             },
-            "lockType": 1,
-            "isLocked": false,
-            "unlockMode": 0,
-            "requiredPiecesToUnlock": 0,
-            "adPlacementId": "",
-            "price": 0,
-            "pieces": []
-        },
-        {
-            "localPosition": {
-                "x": 1.2074496746063233,
-                "y": 0.0,
-                "z": 0.4474985599517822
-            },
-            "lockType": 0,
+            "lockType": 3,
             "isLocked": true,
-            "unlockMode": 0,
-            "requiredPiecesToUnlock": 0,
+            "unlockMode": 1,
+            "requiredPiecesToUnlock": 20,
             "adPlacementId": "",
-            "price": 5,
+            "price": 20,
             "pieces": []
         },
         {
             "localPosition": {
-                "x": -1.2074496746063233,
-                "y": 0.0,
-                "z": 1.3424954414367676
+                "x": -0.7895193099975586,
+                "y": -5.960464477539063e-8,
+                "z": -0.45582887530326846
             },
             "lockType": 1,
             "isLocked": false,
@@ -418,136 +503,9 @@
         },
         {
             "localPosition": {
-                "x": -0.2414899468421936,
-                "y": 0.0,
-                "z": 1.3424954414367676
-            },
-            "lockType": 0,
-            "isLocked": true,
-            "unlockMode": 0,
-            "requiredPiecesToUnlock": 0,
-            "adPlacementId": "",
-            "price": 10,
-            "pieces": []
-        },
-        {
-            "localPosition": {
-                "x": 0.7244696021080017,
-                "y": 0.0,
-                "z": 1.3424954414367676
-            },
-            "lockType": 1,
-            "isLocked": false,
-            "unlockMode": 0,
-            "requiredPiecesToUnlock": 0,
-            "adPlacementId": "",
-            "price": 0,
-            "pieces": [
-                {
-                    "localPosition": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.41999998688697817
-                    },
-                    "localRotation": {
-                        "x": -0.8660253882408142,
-                        "y": 0.5,
-                        "z": -2.1855694143368966e-8,
-                        "w": -3.785517321830412e-8
-                    },
-                    "colorIndex": 5
-                },
-                {
-                    "localPosition": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.6340000033378601
-                    },
-                    "localRotation": {
-                        "x": -0.8660253882408142,
-                        "y": 0.5,
-                        "z": -2.1855694143368966e-8,
-                        "w": -3.785517321830412e-8
-                    },
-                    "colorIndex": 5
-                },
-                {
-                    "localPosition": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.8479999899864197
-                    },
-                    "localRotation": {
-                        "x": -0.8660253882408142,
-                        "y": 0.5,
-                        "z": -2.1855694143368966e-8,
-                        "w": -3.785517321830412e-8
-                    },
-                    "colorIndex": 5
-                },
-                {
-                    "localPosition": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 1.062000036239624
-                    },
-                    "localRotation": {
-                        "x": -0.8660253882408142,
-                        "y": 0.5,
-                        "z": -2.1855694143368966e-8,
-                        "w": -3.785517321830412e-8
-                    },
-                    "colorIndex": 0
-                },
-                {
-                    "localPosition": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 1.2760000228881837
-                    },
-                    "localRotation": {
-                        "x": -0.8660253882408142,
-                        "y": 0.5,
-                        "z": -2.1855694143368966e-8,
-                        "w": -3.785517321830412e-8
-                    },
-                    "colorIndex": 0
-                },
-                {
-                    "localPosition": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 1.4900000095367432
-                    },
-                    "localRotation": {
-                        "x": -0.8660253882408142,
-                        "y": 0.5,
-                        "z": -2.1855694143368966e-8,
-                        "w": -3.785517321830412e-8
-                    },
-                    "colorIndex": 0
-                },
-                {
-                    "localPosition": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 1.7039999961853028
-                    },
-                    "localRotation": {
-                        "x": -0.8660253882408142,
-                        "y": 0.5,
-                        "z": -2.1855694143368966e-8,
-                        "w": -3.785517321830412e-8
-                    },
-                    "colorIndex": 0
-                }
-            ]
-        },
-        {
-            "localPosition": {
-                "x": 1.690429449081421,
-                "y": 0.0,
-                "z": 1.3424954414367676
+                "x": 0.7895193099975586,
+                "y": 5.960464477539063e-8,
+                "z": -0.45582887530326846
             },
             "lockType": 1,
             "isLocked": false,
